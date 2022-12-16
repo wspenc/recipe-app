@@ -22,12 +22,11 @@ time, mark, audio, video {
 
 /* --------- Begin your CSS Below here --------- */
 :root {
-	--primary-color: 24, 69%;
-	--l: 60%;
-	--secondary-color: 180, 22%, 45%;
-	--tertiary-color: 0, 0%, 25%;
+	--primary-color: 26, 73%;
+	--l: 58%;
+	--secondary-color: 195, 19%, 50%;
+	
   }
-  
   html {
 	box-sizing: border-box;
   }
